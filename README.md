@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **goncalocruz2910@gmail.com**
 
-- ⚡ Fun fact **I have a passion for videogames**
+- ⚡ Fun fact **I have a passion for videogames and I would like to pursue a branch of cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

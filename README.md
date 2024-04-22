@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Cruz</h1>
-<h3 align="center">Studying to be a Fullstack Software Engineer</h3>
+<h3 align="center">Studying to become a Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29goncalo04&label=Profile%20views&color=0e75b6&style=flat" alt="29goncalo04" /> </p>

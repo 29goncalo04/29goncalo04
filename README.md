@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently studying on **University of Minho**
 
-- 🌱 I’m currently learning **Software Engineer**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **goncalocruz2910@gmail.com**
+- 📫 How to reach me: **goncalocruz2910@gmail.com**
 
 - ⚡ Fun fact **I have a passion for videogames**
 

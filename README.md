@@ -1,16 +1,67 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Cruz</h1>
 <h3 align="center">Fullstack Developer</h3>
-<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+  <div align="center">                                                                                                                             
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gonçalo%20Cru
+  z&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=57&descSize=18&descColor=c7d2fe" 
+  width="100%" />
+  </div>                                                                                                                                           
+   
+  <br/>                                                                                                                                            
+                  
+  <div align="center">
+    <a href="https://instagram.com/goncalocruz2910" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://www.youtube.com/@sq_team4394" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/gon%C3%A7alo-cruz-759978292/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;
+    <a href="mailto:goncalocruz2910@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=29goncalo04&label=Profile%20views&color=0e75b6&style=flat" alt="29goncalo04" /> </p>
+  <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/goncalocruz2910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goncalocruz2910" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sq_team4394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SQ_Team" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gon%C3%A7alo-cruz-759978292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/goncalocruz2910" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" height="30" width="40" /></a>
+  ---
+
+  ### About Me
+
+  - Building fullstack desktop and web applications
+  - Interested in automation, trading tools, and game development
+  - Always learning something new — from low-level C to UI/UX
+
+  ---
+
+  ### Languages
+
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+  ### Web & Frontend
+
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+  ### Tools & Platforms
+
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+
+  ---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" width="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" width="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" width="40"/> </a> <a href="https://www.unrealengine.com/pt-BR" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="40" alt="unreal engine" width="40"/> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40" alt="blender" width="40"/> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html" width="40"/> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css" width="40"/> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript" width="40"/> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="c#" width="40"/> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" width="40"/> </p>
+
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  </div>

@@ -1,26 +1,77 @@
-<h1 align="center">Gonçalo Cruz</h1>
-<p align="center">Fullstack Developer &nbsp;·&nbsp; Braga, Portugal</p>
+<div align="center">
+
+<h2>Hi, I'm Gonçalo Cruz 👋</h2>
+
+<p>Software Engineer at <strong>Deloitte</strong> &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; Building things that actually solve problems</p>
+
+<p>
+  <a href="mailto:goncalocruz2910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+I'm a software engineer focused on building full-stack and desktop applications. Currently at **Deloitte** working on enterprise software — and on the side I ship my own products. I like taking an idea from nothing to something real that people can actually use.
+
+I'm particularly drawn to problems where performance and real-time data matter.
+
+---
+
+## 🛠 Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Desktop & Tools**
+
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat-square&logo=electron&logoColor=9FEAF9)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+
+---
+
+## 🚀 Featured Project — FloatHawk
+
+A **commercial-grade Windows desktop app** for CS2 skin traders. Monitors the CSFloat marketplace 24/7, scores every new listing through a proprietary multi-stage algorithm (EMA price smoothing, MAD-based outlier removal, float-range percentile analysis), and fires an instant Telegram alert with a screenshot when a profitable deal is found.
+
+Built for real distribution — Windows NSIS installer, DPAPI credential encryption, PyArmor source obfuscation, and a multi-language UI (EN / PT / ES / FR).
+
+**Stack:** React 19 · Python · FastAPI · Electron · SQLite · Playwright · Telegram Bot API
+
+→ [**View FloatHawk**](https://github.com/29goncalo04/floathawk)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/gon%C3%A7alo-cruz-759978292">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:goncalocruz2910@gmail.com">Email</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=29goncalo04&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29goncalo04&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-I build production-grade desktop and web applications. Currently a **Tech Analyst at Deloitte**.
-
-## Featured project
-
-**[FloatHawk](https://github.com/29goncalo04/floathawk)** — Commercial Windows desktop app for CS2 skin trading. Monitors the CSFloat marketplace in real time, scores deals with a multi-factor pricing algorithm, and sends Telegram photo alerts. Shipped as a Windows installer to paying users.
-
-`Python` `FastAPI` `React` `Electron` `SQLite` `Playwright` `aiohttp`
-
-## Stack
-
-**Languages** — Python · JavaScript · Java · C  
-**Frontend** — React · Vite · Material UI · Framer Motion  
-**Backend** — FastAPI · aiohttp · Playwright · NumPy · openpyxl  
-**Desktop** — Electron  
-**Data** — SQLite · Excel automation  
-**Tools** — Git · PyInstaller · PyArmor
+<div align="center">
+  <sub>Always open to interesting conversations — feel free to reach out.</sub>
+</div>

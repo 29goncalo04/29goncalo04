@@ -61,14 +61,9 @@ Built for real distribution — Windows NSIS installer, DPAPI credential encrypt
 
 → [**View FloatHawk**](https://github.com/29goncalo04/floathawk)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=29goncalo04&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29goncalo04&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
+<a href="https://github.com/29goncalo04/floathawk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=29goncalo04&repo=floathawk&theme=dark&hide_border=true" />
+</a>
 
 ---
 

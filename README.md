@@ -24,7 +24,7 @@ I'm particularly drawn to problems where performance and real-time data matter.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Languages**
 
@@ -51,7 +51,7 @@ I'm particularly drawn to problems where performance and real-time data matter.
 
 ---
 
-## 🚀 Featured Project — FloatHawk
+## Featured Project — FloatHawk
 
 A **commercial-grade Windows desktop app** for CS2 skin traders. Monitors the CSFloat marketplace 24/7, scores every new listing through a proprietary multi-stage algorithm (EMA price smoothing, MAD-based outlier removal, float-range percentile analysis), and fires an instant Telegram alert with a screenshot when a profitable deal is found.
 

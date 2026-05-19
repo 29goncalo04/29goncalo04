@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/gonçalo-cruz-759978292">
+  <a href="https://www.linkedin.com/in/gon%C3%A7alo-cruz-759978292">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>

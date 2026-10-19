@@ -50,11 +50,11 @@ I'm particularly drawn to problems where performance and real-time data matter.
 
 ---
 
-## Featured Project — FloatHawk
+## Featured Project - FloatHawk
 
 A **commercial-grade Windows desktop app** for CS2 skin traders. Monitors the CSFloat marketplace 24/7, scores every new listing through a proprietary multi-stage algorithm (EMA price smoothing, MAD-based outlier removal, float-range percentile analysis), and fires an instant Telegram alert with a screenshot when a profitable deal is found.
 
-Built for real distribution — Windows NSIS installer, DPAPI credential encryption, PyArmor source obfuscation, and a multi-language UI (EN / PT / ES / FR).
+Built for real distribution: Windows NSIS installer, DPAPI credential encryption, PyArmor source obfuscation, and a multi-language UI (EN / PT / ES / FR).
 
 **Stack:** React 19 · Python · FastAPI · Electron · SQLite · Playwright · Telegram Bot API
 

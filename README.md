@@ -2,7 +2,7 @@
 
 <h2>Hi, I'm Gonçalo Cruz 👋</h2>
 
-<p>Software Engineer at <strong>Deloitte</strong> &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; Building things that actually solve problems</p>
+<p>Tech Consultant at <strong>Deloitte</strong> &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; Building things that actually solve problems</p>
 
 <p>
   <a href="mailto:goncalocruz2910@gmail.com">

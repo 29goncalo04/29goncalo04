@@ -18,7 +18,7 @@
 
 ---
 
-I'm a software engineer focused on building full-stack and desktop applications. Currently at **Deloitte** working on enterprise software — and on the side I ship my own products. I like taking an idea from nothing to something real that people can actually use.
+I’m a software engineer focused on building full-stack and desktop applications. Currently at Deloitte, working on ServiceNow and IBM BAMOE projects, and on the side I build my own projects. I like taking an idea from nothing to something that works end to end.
 
 I'm particularly drawn to problems where performance and real-time data matter.
 
